@@ -7,3 +7,5 @@ The model must first be preprocessed, using process_data.py. Which requires the 
 Once the data has been processed it can be used to train the Lipreading model, by running train_model.py.
 
 Using 600 samples per category, the model has achieved 94.48% across 10 different words.
+
+Adapted from the paper: Lu, Y.; Li, H. Automatic Lip-Reading System Based on Deep Convolutional Neural Network and Attention-Based Long Short-Term Memory. Appl. Sci. 2019, 9, 1599. 
